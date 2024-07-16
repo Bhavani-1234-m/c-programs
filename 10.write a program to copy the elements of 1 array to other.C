@@ -12,7 +12,7 @@ int main()
     {
         printf("%d\t",a[i]);
     }
-    printf("\n econd array is:");
+    printf("\n second array is:");
     for(i=0;i<6;i++)
     {
         printf("%d\t",b[i]);
